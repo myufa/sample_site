@@ -4,9 +4,7 @@
 
 #frame {
     border-radius: 20px;
-    border-style: outset;
-    border-image-outset: 5px;
-    border-color: rgba(0, 255, 255, 0.596);
-    padding: 5px;
+    background-image: linear-gradient(to top, #3acfd5 0%, #3a4ed5 100%);
+    padding: 10px;
     width: 20%;
 }
