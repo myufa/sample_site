@@ -3,8 +3,8 @@
 }
 
 #frame {
-    border-radius: 3px;
+    border-radius: 8px;
     border-style: outset;
     padding: 5px;
-    size: 30px;
+    width: 50;
 }
