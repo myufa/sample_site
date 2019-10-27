@@ -1,0 +1,9 @@
+* {
+    font-family: sans-serif;
+}
+
+#frame {
+    border-radius: 3px;
+    border-style: outset;
+    padding: 5px;
+}
